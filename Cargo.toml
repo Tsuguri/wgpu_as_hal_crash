@@ -1,0 +1,8 @@
+[package]
+name = "wgpu_as_hal_crash"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wgpu = "22.1"
+pollster = "0.3"
