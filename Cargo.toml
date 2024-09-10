@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-wgpu = "22.1"
+wgpu = {path = "../wgpu/wgpu"}
+ash = "0.38"
 pollster = "0.3"
